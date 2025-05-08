@@ -55,6 +55,7 @@
 <ol dir="rtl">
     <li>נתיב הקובץ JSON שברצונך לעדכן (כולל שם הקובץ)</li>
     <li>שם הקישור</li>
+    <li>שם המחבר</li>
     <li>משך הזמן / מספר חלקים</li>
     <li>שפת הסרטון</li>
     <li>כתובת URL של הסרטון</li>
@@ -64,7 +65,7 @@
 דוגמא להרצה:
 
 ```
-node .\Scripts\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<duration>' '<language>' '<URL>' '<notes>'
+node .\Scripts\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
 ```
 
 <h4 dir="rtl"> 🆕 להוספת קטגוריה חדשה עם קישור:</h4>
@@ -76,6 +77,7 @@ node .\Scripts\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<
     <li>נתיב קובץ JSON החדש (כולל שם הקובץ)</li>
     <li>שם הקטגוריה החדשה</li>
     <li>שם הקישור</li>
+    <li>שם המחבר</li>
     <li>משך הזמן / מספר חלקים</li>
     <li>שפת הסרטון</li>
     <li>כתובת URL של הסרטון</li>
@@ -85,7 +87,7 @@ node .\Scripts\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<
 דוגמא להרצה:
 
 ```
-node .\Scripts\createJsonData.js '.\Vidoes\<category>\...\<topic>.json' '<topic>' '<name>' '<duration>' '<language>' '<URL>' '<notes>'
+node .\Scripts\createJsonData.js '.\Vidoes\<category>\...\<topic>.json' '<topic>' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
 ```
 
 
