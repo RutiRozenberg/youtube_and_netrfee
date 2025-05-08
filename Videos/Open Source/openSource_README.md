@@ -15,7 +15,7 @@
             <td style="text-align: right;">9:26</td>
             <td style="text-align: right;">עברית</td>
             <td style="text-align: right;">
-                <a>https://www.youtube.com/watch?app=desktop&v=IVNxfbHNHZk</a>   
+                <a href="https://www.youtube.com/watch?app=desktop&v=IVNxfbHNHZk">https://www.youtube.com/watch?app=desktop&v=IVNxfbHNHZk</a>   
             </td>
             <td style="text-align: right;"></td>
         </tr>

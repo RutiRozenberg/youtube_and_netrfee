@@ -15,7 +15,7 @@ const tableTemplete = tableData.map(columnData => {
             <td style="text-align: right;">${columnData.durationOrNumberOfParts}</td>
             <td style="text-align: right;">${columnData.language}</td>
             <td style="text-align: right;">
-                <a>${columnData.link}</a>   
+                <a href="${columnData.link}">${columnData.link}</a>   
             </td>
             <td style="text-align: right;">${columnData.notes || ''}</td>
         </tr>`

@@ -11,11 +11,13 @@
         </tr>
         <tr>
             <td style="text-align: right;">מדריך 13 Next.js</td>
-            <td style="text-align: right;">Lior Rabinovich</td>
+            <td style="text-align: right;">
+
+Lior Rabinovich</td>
             <td style="text-align: right;">19 חלקים (לא ארוכים)</td>
             <td style="text-align: right;">עברית</td>
             <td style="text-align: right;">
-                <a>https://www.youtube.com/watch?v=FTDQj84HhCY&list=PLKoG9zrxvudOKmkyVjc_m3_u5F8ysCwPW</a>   
+                <a href="https://www.youtube.com/watch?v=FTDQj84HhCY&list=PLKoG9zrxvudOKmkyVjc_m3_u5F8ysCwPW">https://www.youtube.com/watch?v=FTDQj84HhCY&list=PLKoG9zrxvudOKmkyVjc_m3_u5F8ysCwPW</a>   
             </td>
             <td style="text-align: right;">החלק של עיצוב ב Tailwind CSS חסום </td>
         </tr>
