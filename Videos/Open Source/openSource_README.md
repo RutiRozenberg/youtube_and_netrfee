@@ -17,7 +17,7 @@
             <td style="text-align: right;">
                 <a>https://www.youtube.com/watch?app=desktop&v=IVNxfbHNHZk</a>   
             </td>
-            <td style="text-align: right;">undefined</td>
+            <td style="text-align: right;"></td>
         </tr>
     <table>
 </div>
