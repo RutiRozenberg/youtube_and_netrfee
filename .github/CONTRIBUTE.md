@@ -37,15 +37,15 @@
 לחץ על כפתור Fork (בפינה הימנית העליונה)
 <ul>
     <li>בצע Clone למאגר ששוכפל אליך:
-        <code>git clone https://github.com/&lt;your-username&gt/&lt;repo-name.git&gt</code>
+        <code>git clone https://github.com/your-username/repo-name.git</code>
     </li>
     <li>היכנס לתיקייה: 
-        <code>cd &lt;repo-name&gt</code>
+        <code>cd repo-name</code>
     </li>
 </ul>
 
 ### 4. צור ענף חדש
-<div><code>git checkout -b add-my-link</code>
+<div dir="rtl"><code>git checkout -b add-my-link</code>
 
 ### 5. הוסף את הקישור
 #### **🟢 להוספת קישור לקטגוריה קיימת:**
