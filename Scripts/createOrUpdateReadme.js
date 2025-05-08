@@ -10,14 +10,14 @@ const tableData = jsonData.table;
 const tableTemplete = tableData.map(columnData => {
     return (
     `<tr>
-            <td style="text-align: right;">${columnData.name}</td>
+            <td style="text-align: right;">${columnData.name || ''}</td>
             <td style="text-align: right;">${columnData.author}</td>
             <td style="text-align: right;">${columnData.durationOrNumberOfParts}</td>
             <td style="text-align: right;">${columnData.language}</td>
             <td style="text-align: right;">
                 <a>${columnData.link}</a>   
             </td>
-            <td style="text-align: right;">${columnData.notes}</td>
+            <td style="text-align: right;">${columnData.notes || ''}</td>
         </tr>`
     )
 })
