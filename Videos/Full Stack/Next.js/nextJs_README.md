@@ -11,9 +11,7 @@
         </tr>
         <tr>
             <td style="text-align: right;">מדריך 13 Next.js</td>
-            <td style="text-align: right;">
-
-Lior Rabinovich</td>
+            <td style="text-align: right;">Lior Rabinovich</td>
             <td style="text-align: right;">19 חלקים (לא ארוכים)</td>
             <td style="text-align: right;">עברית</td>
             <td style="text-align: right;">
