@@ -33,13 +33,13 @@ const template = `<div dir="rtl">
             <th style="text-align: right;">קישור</th>
             <th style="text-align: right;">הערות</th>
         </tr>
-        ${tableTemplete}
+        ${tableTemplete.join('')}
     <table>
 </div>`;
 
-const createReadme = (readmePath) => {
+const createReadme = (readmePath, template) => {
     const readmeFilename = path.join(__dirname, `../${readmePath}`);
-
+    
     fs.writeFile(readmeFilename, template, (err) => {
         if (err) {
             console.error('Error creating README:', err);
@@ -49,4 +49,4 @@ const createReadme = (readmePath) => {
     });
 }
 
-createReadme(readmePath);
+createReadme(readmePath, template);
