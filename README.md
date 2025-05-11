@@ -24,12 +24,12 @@
 ## 🛠️ רוצה לתרום? גם אתה יכול!
 גם אם אתה מפתח מתחיל – התרומה פשוטה וברורה.
 
-כל ההנחיות נמצאות בקובץ 📘 [CONTRIBUTE.md](<https://github.com/RutiRozenberg/youtube_and_netrfee/blob/main/.github/CONTRIBUTE.md>) – צעד אחר צעד.
+כל ההנחיות נמצאות בקובץ 📘 [CONTRIBUTING.md](<https://github.com/RutiRozenberg/youtube_and_netrfee/blob/main/CONTRIBUTING.md>) – צעד אחר צעד.
 
 
 ### ✅ בקצרה:
 
-📌 הקפד לקרוא את ההוראות המלאות והמעודכנות כאן 👈 [CONTRIBUTE.md](<https://github.com/RutiRozenberg/youtube_and_netrfee/blob/main/.github/CONTRIBUTE.md>)
+📌 הקפד לקרוא את ההוראות המלאות והמעודכנות כאן 👈 [CONTRIBUTING.md](<https://github.com/RutiRozenberg/youtube_and_netrfee/blob/main/CONTRIBUTING.md>)
 
 ודא שהקישור שלך לא קיים כבר.
 
