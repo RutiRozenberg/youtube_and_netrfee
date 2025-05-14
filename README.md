@@ -63,3 +63,8 @@
 ## 🤔 עזרה? שאלה?
 
 בכל עניין, שאלה או בקשת עזרה, תוכל לפתוח דיון 👈  [מעבר לדיונים](<https://github.com/RutiRozenberg/youtube_and_netrfee/discussions>)
+
+##
+
+**הערה:**
+כל הנכתב לעיל וכן בתיעודים השונים נכתב בלשון זכר לנוחות בלבד. אך הפניה היא לשני המינים כאחד.
