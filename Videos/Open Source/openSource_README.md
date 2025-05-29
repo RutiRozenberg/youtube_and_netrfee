@@ -18,6 +18,15 @@
                 <a href="https://www.youtube.com/watch?app=desktop&v=IVNxfbHNHZk">https://www.youtube.com/watch?app=desktop&v=IVNxfbHNHZk</a>   
             </td>
             <td style="text-align: right;"></td>
+        </tr><tr>
+            <td style="text-align: right;">How To Get Started With Open Source</td>
+            <td style="text-align: right;">Web Dev Simplified</td>
+            <td style="text-align: right;">13:03</td>
+            <td style="text-align: right;">English</td>
+            <td style="text-align: right;">
+                <a href="https://www.youtube.com/watch?app=desktop&v=GbqSvJs-6W4&t=68s">https://www.youtube.com/watch?app=desktop&v=GbqSvJs-6W4&t=68s</a>   
+            </td>
+            <td style="text-align: right;"></td>
         </tr>
     <table>
 </div>
