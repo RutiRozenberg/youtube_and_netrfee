@@ -18,6 +18,15 @@
                 <a href=" https://www.youtube.com/watch?v=LDB4uaJ87e0"> https://www.youtube.com/watch?v=LDB4uaJ87e0</a>   
             </td>
             <td style="text-align: right;"></td>
+        </tr><tr>
+            <td style="text-align: right;">Most Beginner React Developers Do This Wrong</td>
+            <td style="text-align: right;">Web Dev Simplified</td>
+            <td style="text-align: right;">13:46</td>
+            <td style="text-align: right;">English</td>
+            <td style="text-align: right;">
+                <a href="https://www.youtube.com/watch?v=E1cklb4aeXA">https://www.youtube.com/watch?v=E1cklb4aeXA</a>   
+            </td>
+            <td style="text-align: right;"></td>
         </tr>
     <table>
 </div>
