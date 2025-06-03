@@ -1,5 +1,5 @@
 <div dir="rtl">
-    <h1>Java Script</h1>
+    <h1>JavaScript</h1>
     <table>
         <tr>
             <th style="text-align: right;">שם</th>
