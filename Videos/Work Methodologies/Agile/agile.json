@@ -1,0 +1,33 @@
+{
+    "titlePage": "Agile",
+    "table": [
+        {
+            "name": "איך צוות פיתוח עובד בחברת הייטק? | מדריך מקיף על עולם ה- Agile וה- Scrum | מדריך למתחילים ומתקדמים",
+            "author": "CoderZ",
+            "durationOrNumberOfParts": "1:06:56",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=ayvoqwfVz-8"
+        },
+        {
+            "name": "What Is Agile Methodology? | Introduction to Agile Methodology in Six Minutes | Simplilearn",
+            "author": "Simplilearn",
+            "durationOrNumberOfParts": "6:22",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=8eVXTyIZ1Hs"
+        },
+        {
+            "name": "What is Agile? | Agile Methodology | Agile Frameworks - Scrum, Kanban, Lean, XP, Crystal | Edureka",
+            "author": "edureka!",
+            "durationOrNumberOfParts": "35:30",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=WjwEh15M5Rw"
+        },
+        {
+            "name": "Agile Scrum Full Course In 4 Hours | Agile Scrum Master Training | Agile Training Video |Simplilearn",
+            "author": "Simlilearn",
+            "durationOrNumberOfParts": "3:24:57",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=VFQtSqChlsk"
+        }
+    ]
+}
