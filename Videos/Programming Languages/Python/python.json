@@ -1,0 +1,47 @@
+{
+    "titlePage": "Python",
+    "table": [
+        {
+            "name": "Python for Beginners – Full Course [Programming Tutorial]",
+            "author": "freeCodeCamp.org",
+            "durationOrNumberOfParts": "4:39:59",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=eWRfhZUzrAc"
+        },
+        {
+            "name": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+            "author": "Dave Gray",
+            "durationOrNumberOfParts": "8:38:55",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=H2EJuAcrZYU"
+        },
+        {
+            "name": "Python Full Course for free 🐍 (2024)",
+            "author": "Bro Code",
+            "durationOrNumberOfParts": "12:00:00",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=ix9cRaBkVe0"
+        },
+        {
+            "name": "ללמוד פייתון בשעה - מדריך מקיף",
+            "author": "הטכנולוג",
+            "durationOrNumberOfParts": "1:03:41",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=XHbuQf-DWIk"
+        },
+        {
+            "name": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+            "author": "Nissan Courses",
+            "durationOrNumberOfParts": "1:34:10",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=byLFiFawEuY"
+        },
+        {
+            "name": "Python Crash Course (Hebrew) - קורס מקיף בפייתון",
+            "author": "Geek of Automation",
+            "durationOrNumberOfParts": "7:51:21",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=MAdr67RNrMg"
+        }
+    ]
+}

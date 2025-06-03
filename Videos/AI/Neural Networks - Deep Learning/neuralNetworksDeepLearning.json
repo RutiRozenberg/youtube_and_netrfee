@@ -1,0 +1,13 @@
+{
+    "titlePage": "Neural Networks - Deep Learning",
+    "table": [
+        {
+            "name": "Neural Networks / Deep Learning",
+            "author": "StatQuest with Josh Starmer",
+            "durationOrNumberOfParts": "33 חלקים",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=2",
+            "notes": "חלקים שלא נשלחו לבדיקה לנטפרי:\n23: Reinforcement Learning with Neural Networks: Essential Concepts\n24: Reinforcement Learning with Neural Networks: Mathematical Details\n25: Reinforcement Learning with Human Feedback (RLHF), Clearly Explained!!!\n\nחלקים חסומים בנטפרי:\n33: Coding a ChatGPT Like Transformer From Scratch in PyTorch"
+        }
+    ]
+}

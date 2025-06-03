@@ -1,0 +1,33 @@
+{
+    "titlePage": "HTML & CSS",
+    "table": [
+        {
+            "name": "HTML ו CSS עונה 1",
+            "author": "עופר שלי, מאנקיס לימוד HTML ,REACT, NODE, JS, CSS",
+            "durationOrNumberOfParts": "34 חלקים",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=Z55B-PN5Ys0&list=PLP-UKVDk32JhdcvmAFL65Y2GnpWLlCCUE&index=3"
+        },
+        {
+            "name": "קורס HTML & CSS למתחילים! (ללמוד פיתוח אתרים מ-0)",
+            "author": "בינה | Bina",
+            "durationOrNumberOfParts": "7:00:00",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=_nKpsneRdMY"
+        },
+        {
+            "name": "קורס תכנות HTML",
+            "author": "דוקטור קוד",
+            "durationOrNumberOfParts": "10 חלקים",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=Luza7ViOw0c&list=PLQQFmSD6pTT4zYEV_-SlBT3bPhOKNupvS&index=12"
+        },
+        {
+            "name": "קורס תכנות CSS",
+            "author": "דוקטור קוד",
+            "durationOrNumberOfParts": "29 חלקים ",
+            "language": "עברית",
+            "link": "https://www.youtube.com/watch?v=rTngfBfSDmM&list=PLQQFmSD6pTT6DP_BjVNcsOAaiHAf0ztwp&index=3"
+        }
+    ]
+}
