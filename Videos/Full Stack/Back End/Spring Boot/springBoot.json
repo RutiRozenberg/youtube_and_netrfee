@@ -1,0 +1,19 @@
+{
+    "titlePage": "Spring Boot",
+    "table": [
+        {
+            "name": "Spring Boot Tutorial for Beginners [2025]",
+            "author": "Programming with Mosh",
+            "durationOrNumberOfParts": "1:11:21",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=gJrjgg1KVL4"
+        },
+        {
+            "name": "Spring Boot Tutorial for Beginners (Java Framework)",
+            "author": "freeCodeCamp/org",
+            "durationOrNumberOfParts": "1:49:28",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=vtPkZShrvXQ"
+        }
+    ]
+}

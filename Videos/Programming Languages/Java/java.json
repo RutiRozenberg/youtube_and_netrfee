@@ -1,0 +1,54 @@
+{
+    "titlePage": "Java",
+    "table": [
+        {
+            "name": "Java Collections Tutorial",
+            "author": "Programming with Mosh",
+            "durationOrNumberOfParts": "32:21",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=rH0winlka8A"
+        },
+        {
+            "name": "Java Full Course 2025 | Core Java Tutorial For Beginners | Java Programming Course | Simplilearn",
+            "author": "Simplilearn",
+            "durationOrNumberOfParts": "8:39:20",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=-h9nFXGK1oE"
+        },
+        {
+            "name": "Java Tutorial for Beginners",
+            "author": "Telusko",
+            "durationOrNumberOfParts": "12:23:22",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=BGTx91t8q50"
+        },
+        {
+            "name": "Java Programming for Beginners – Full Course",
+            "author": "freeCodeCamp.org",
+            "durationOrNumberOfParts": "4:10:59",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=A74TOX803D0"
+        },
+        {
+            "name": "Java Full Course for free ☕",
+            "author": "Bro Code",
+            "durationOrNumberOfParts": "11:59:59",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=xk4_1vDrzzo"
+        },
+        {
+            "name": "Intro to Java Programming - Course for Absolute Beginners",
+            "author": "freeCodeCamp.org",
+            "durationOrNumberOfParts": "3:48:24",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=GoXwIVyNvX0"
+        },
+        {
+            "name": "Learn Java 8 - Full Tutorial for Beginners",
+            "author": "freeCodeCamp.org",
+            "durationOrNumberOfParts": "9:32:31",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=grEKMHGYyns"
+        }
+    ]
+}
