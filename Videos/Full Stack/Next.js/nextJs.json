@@ -1,6 +1,13 @@
 {
-    "titlePage": "Next.js",
+    "titlePage": "'Next.js",
     "table": [
+        {
+            "name": "Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)",
+            "author": "Web Dev Simplified",
+            "durationOrNumberOfParts": "שעתיים",
+            "language": "Englis",
+            "link": "https://www.youtube.com/watch?v=yoiBv0K6_1U",
+        },
         {
             "name": "מדריך 13 Next.js",
             "author": "\n\nLior Rabinovich",
