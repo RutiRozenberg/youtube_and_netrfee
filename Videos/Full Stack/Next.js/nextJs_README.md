@@ -19,15 +19,5 @@
             </td>
             <td style="text-align: right;">החלק של עיצוב ב Tailwind CSS חסום </td>
         </tr>
-        <tr>
-            <td style="text-align: right;">Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)</td>
-            <td style="text-align: right;">Web Dev Simplified</td>
-            <td style="text-align: right;">שעתיים</td>
-            <td style="text-align: right;">English</td>
-            <td style="text-align: right;">
-                <a href="https://www.youtube.com/watch?v=yoiBv0K6_1U">https://www.youtube.com/watch?v=yoiBv0K6_1U</a>   
-            </td>
-            <td style="text-align: right;"></td>
-        </tr>
     <table>
 </div>
